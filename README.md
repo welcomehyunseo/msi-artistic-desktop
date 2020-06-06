@@ -22,6 +22,12 @@
 * 써멀패드 - 구리 발열 통로나 주변 레지스터에 부착(방열이 필요한 곳 즉, cpu 이외의 부분에 부착)
 * 브러쉬 - 먼지세척용
 
+## 서멀구리스 도포 방법
+라이터 오일과 알코올로 세척 후, 모든 면에 얇게 펴 발라준다.
+
+## 써멀패드 부착 방법
+덮을 부분에 전체적으로 씌울 수 있도록 한다.
+
 # 관련 링크
 * How to Disassemble MSI GL62M Laptop or Sell it.(youtube) <a href="https://www.youtube.com/watch?v=2BttVsFjee4">Go</a>
 * 아크릴 cnc 가공 업체 <a href="http://mircnc.co.kr/">Go</a>
