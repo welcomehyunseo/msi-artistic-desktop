@@ -9,7 +9,13 @@
 * 제작 설계 프로그램 - adobe illustraator cc 2019
 
 # 제작 컨셉
+![capture](https://user-images.githubusercontent.com/48713654/83945177-eff04e80-a843-11ea-89ff-58b0f8c558b2.jpg)
 
+<a href="https://www.youtube.com/watch?v=AOh4h0u3msU&t=1013s">출처</a>
+
+최대한 얇고 간단한 제작법을 가진 케이스가 좋을 것 같다.
+왜냐하면 노트북 보드는 차피 하나이고 고정만 해주면 되기 때문에 
+최대한 만들기 쉽고 간단하게 만들어 외관 디자인도 깔끔하게 제작할 계획이다.
 
 # 필요 물품
 * 구리스, 서멀구리스 - 그래픽카드, CPU (고가 서멀을 사용하는게 좋음)
